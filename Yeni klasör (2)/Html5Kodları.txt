@@ -1,0 +1,281 @@
+Yapısal Etiketler
+
+Etiket	Açıklama
+
+<a>	Bir köprü tanımlar.
+
+<article> 	Bir makaleyi tanımlar.
+
+<aside> 	Sayfa içeriğiyle gevşek bir şekilde ilişkili bazı içerik tanımlar.
+
+<body>	Belgenin gövdesini tanımlar.
+
+<br>	Tek satırlık kesme oluşturur.
+
+<details> 	Kullanıcının istek üzerine ek bilgi veya kontrol alabileceği bir widget'ı temsil eder.
+
+<div>	Belgedeki bir bölümü veya bölümü belirtir.
+
+<h1> to <h6>	HTML başlıklarını tanımlar.
+
+<head>	Belgenin belge hakkında bilgi içeren baş kısmını tanımlar.
+
+<header> 	Bir belgenin veya bölümün başlığını temsil eder.
+
+<hgroup> 	Bir grup başlığı tanımlar.
+
+<hr>	Yatay bir çizgi oluşturun.
+
+<html>	Bir HTML belgesinin kökünü tanımlar.
+
+<footer> 	Bir belgenin veya bölümün altbilgisini temsil eder.
+
+<nav> 	Gezinme bağlantılarının bir bölümünü tanımlar.
+
+<p>	Bir paragraf tanımlar.
+
+<section> 	Üstbilgi, altbilgi vb. Gibi bir belgenin bir bölümünü tanımlar.
+
+<span>	Bir belgedeki satır içi stilsiz bir bölümü tanımlar.
+
+<summary> 	<details>Öğe için bir özet tanımlar .
+
+
+
+
+
+
+
+
+
+Meta Veri Etiketleri
+
+Etiket	Açıklama
+
+<base>	Bir sayfadaki tüm bağlı nesneler için temel URL'yi tanımlar.
+
+<link>	Geçerli belge ile harici bir kaynak arasındaki ilişkiyi tanımlar.
+
+<meta>	Belge içeriği hakkında yapılandırılmış meta veriler sağlar.
+
+<style>	Belgenin başına stil bilgisi (genellikle CSS) ekler.
+
+<title>	Belge için bir başlık tanımlar.
+
+
+
+
+
+
+
+
+
+Form Etiketleri
+
+Etiket	Açıklama
+
+<button>	Tıklanabilir bir düğme oluşturur.
+
+<datalist> 	Bir <input>öğe için önceden tanımlanmış seçenekler kümesini temsil eder .
+
+<fieldset>	İlgili form alanlarının kümesini belirtir.
+
+<form>	Kullanıcı girişi için bir HTML formu tanımlar.
+
+<input>	Bir giriş kontrolü tanımlar.
+
+<keygen> 	Genel-özel bir anahtar çifti oluşturmak için bir kontrolü temsil eder.
+
+<label>	Denetim için bir etiket tanımlar <input>.
+
+<legend>	Bir <fieldset>öğe için resim yazısı tanımlar .
+
+<meter> 	Bilinen bir aralıktaki skaler ölçümü temsil eder.
+
+<optgroup>	Seçim listesinde bir grup ilgili seçenek tanımlar.
+
+<option>	Seçim listesindeki bir seçeneği tanımlar.
+
+<select>	Form içindeki seçim listesini tanımlar.
+
+<textarea>	Çok satırlı metin giriş denetimi (metin alanı) tanımlar.
+
+
+
+
+
+
+
+
+
+Etiketleri Biçimlendirme
+
+Etiket	Açıklama
+
+<abbr>	Daha uzun bir kelime veya kelime öbeğinin kısaltılmış bir biçimini tanımlar.
+
+<acronym>	Bir kısaltmayı tanımlar.
+
+<address>	Yazarın iletişim bilgilerini belirtir.
+
+<b>	Metni kalın bir stilde görüntüler.
+
+<bdi> 	İki yönlü metin biçimlendirme amacıyla çevresinden yalıtılmış metni temsil eder.
+
+<bdo>	Geçerli metin yönünü geçersiz kılar.
+
+<big>	metni büyük boyutta görüntüler.
+
+<blockquote>	Uzun bir teklif tanımlar.
+
+<cite>	Başka bir kaynağa yapılan atıf veya referansı belirtir.
+
+<code>	Metni bilgisayar kodu olarak belirtir.
+
+<del>	Silinmiş bir metin bloğunu belirtir.
+
+<dfn>	Bir tanım belirtir.
+
+<em>	Vurgulanan metni belirtir.
+
+<i>	Metni italik bir tarzda görüntüler.
+
+<ins>	Belgeye eklenen bir metin bloğunu tanımlar.
+
+<kbd>	Metni klavye girişi olarak belirtir.
+
+<mark> 	Referans amacıyla vurgulanan metni temsil eder.
+
+<output> 	Hesaplamanın sonucunu temsil eder.
+
+<pre>	Önceden biçimlendirilmiş bir metin bloğunu tanımlar.
+
+<progress> 	Bir görevin tamamlanma ilerlemesini temsil eder.
+
+<q>	Kısa bir satır içi tırnak tanımlar.
+
+<rp> 	Ruby ek açıklamalarını desteklemeyen tarayıcılar için geri dönüş parantezi sağlar.
+
+<rt> 	Yakut ek açıklamalarında sunulan karakterin telaffuzunu tanımlar.
+
+<ruby> 	Bir yakut ek açıklamasını temsil eder.
+
+<samp>	Metni bir bilgisayar programından örnek çıktı olarak belirtir.
+
+<small>	Metni daha küçük boyutta görüntüler.
+
+<strong>	Güçlü bir şekilde vurgulanan metni belirtin.
+
+<sub>	Abone olunan metni tanımlar.
+
+<sup>	Üst simge olan metni tanımlar.
+
+<tt>	Metni teletype tarzında görüntüler.
+
+<var>	Bir değişkeni tanımlar.
+
+<wbr> 	Satır sonu fırsatını temsil eder.
+
+
+
+
+
+
+
+
+
+Etiketleri Listele
+
+Etiket	Açıklama
+
+<dd>	Tanım listesindeki bir terimin tanımını belirtir.
+
+<dl>	Bir tanım listesi tanımlar.
+
+<dt>	Tanım listesinde bir terimi (öğe) tanımlar.
+
+<li>	Bir liste öğesi tanımlar.
+
+<ol>	Sıralı bir liste tanımlar.
+
+<menu>	Komutların bir listesini temsil eder.
+
+<ul>	Sırasız bir liste tanımlar.
+
+
+
+
+
+
+
+
+
+Tablo Etiketleri
+
+Etiket	Açıklama
+
+<caption>	Tablonun başlığını tanımlar.
+
+<col>	Tablodaki bir veya daha fazla sütun için öznitelik değerlerini tanımlar.
+
+<colgroup>	Tablodaki birden çok sütun için öznitelikleri belirtir.
+
+<table>	Bir veri tablosu tanımlar.
+
+<tbody>	Tablo verilerinin ana gövdesini tanımlayan bir dizi satırı gruplandırır.
+
+<td>	Tablodaki bir hücreyi tanımlar.
+
+<tfoot>	Tablonun sütunlarını özetleyen bir dizi satırı gruplandırır.
+
+<thead>	Tablonun sütun etiketlerini tanımlayan bir satır kümesi gruplandırır.
+
+<th>	Tablodaki başlık hücresini tanımlar.
+
+<tr>	Tablodaki bir hücre satırını tanımlar.
+
+
+
+
+
+
+
+
+
+Gömülü İçerik Etiketleri
+
+Etiket	Açıklama
+
+<area>	Görüntü haritasındaki belirli bir alanı tanımlar.
+
+<audio> 	Bir HTML belgesine ses veya ses akışı yerleştirir.
+
+<canvas> 	Belgede komut dosyaları (genellikle JavaScript) aracılığıyla anında grafik çizmek için kullanılabilen bir bölge tanımlar.
+
+<embed> 	Genellikle ses veya video gibi multimedya içeriği olan harici uygulamayı bir HTML belgesine gömer.
+
+<figcaption> 	Bir şeklin altyazısını veya göstergesini tanımlar.
+
+<figure> 	Belgenin bir parçası olarak gösterilen bir rakamı temsil eder.
+
+<frame>	Çerçeve kümesi içindeki tek bir kareyi tanımlar.
+
+<frameset>	Bir çerçeve koleksiyonu veya diğer çerçeve kümesini tanımlar.
+
+<iframe>	Satır içi çerçevede bir URL görüntüler.
+
+<img>	Satır içi bir görüntü görüntüler.
+
+<map>	İstemci tarafı görüntü eşlemesini tanımlar.
+
+<noframes>	Çerçeveleri desteklemeyen tarayıcılarda görüntülenen alternatif bir içeriği tanımlar.
+
+<object>	Katıştırılmış bir nesneyi tanımlar.
+
+<param>	Bir nesne veya uygulama öğesi için bir parametre tanımlar.
+
+<source> 	<audio>Veya gibi medya öğeleri için alternatif medya kaynaklarını tanımlar <video>.
+
+<time> 	Saati ve / veya tarihi temsil eder.
+
+<video> 	Video içeriğini bir HTML belgesine gömer.
